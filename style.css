@@ -1,0 +1,43 @@
+.heading{
+    width:100%;
+    text-align: left;
+    margin:bottom;
+}
+.heading h3{
+    display:inline;
+    font-size:20px;
+}
+.heading button{
+    float:right;
+    border:3px dashed wheat;
+}
+#start{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 3px dotted white;
+    box-shadow: 3px 3px white, -7px 7px .4em aqua;
+}
+body{
+    background-position:center;
+    background-size: cover;
+    
+}
+.footer{
+    background-color:grey;
+    color:white;
+    line-height:2;
+    margin-bottom:0px;
+    bottom:0px;
+    position:sticky;
+}
+.modal-body{
+    text-align:left;
+}
+#canvas div{
+   border-radius: 4px;
+   box-shadow:3px 3px 3px white;
+   border: 2px dotted white; 
+}
+div{
+    text-align: center;
+}
